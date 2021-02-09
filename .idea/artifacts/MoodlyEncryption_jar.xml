@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MoodlyEncryption:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MoodlyEncryption_jar</output-path>
+    <root id="archive" name="MoodlyEncryption.jar">
+      <element id="module-output" name="MoodlyEncryption" />
+    </root>
+  </artifact>
+</component>
